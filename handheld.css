@@ -1,0 +1,8 @@
+
+body {
+    background-color: coral;
+}
+.container-fluid {
+    padding-left: calc(var(--space-unit) * 4);
+    padding-right: calc(var(--space-unit) * 4);
+}
