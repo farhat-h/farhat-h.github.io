@@ -195,3 +195,20 @@ p.project-description {
     flex:1;
 }
 
+.exp-entry {
+    margin: calc(var(--space-unit) * 10) 0;
+}
+
+.edu-list {
+    display: grid;
+    grid-template-columns: 10px 1fr;
+}
+
+.edu-list .timeline {
+    background-color: #fff;
+    width: 1px;
+}
+.timeline .line {
+    width: 1px;
+    background-color: #fff;
+}
