@@ -166,7 +166,9 @@ p.project-description {
     padding: calc(var(--space-unit) * 5);
     border: 1px solid var(--color-card-stroke);
     border-radius: 6px;
-    margin: 12px;
+    margin-right: calc(var(--space-unit) * 6);
+    margin-bottom: calc(var(--space-unit) * 6);
+
 }
 .lab-title {
     font-size: 3rem;
@@ -196,7 +198,7 @@ p.project-description {
 }
 
 .exp-entry {
-    margin: calc(var(--space-unit) * 10) 0;
+    margin: calc(var(--space-unit) * 20) 0;
 }
 
 .edu-container {
@@ -218,7 +220,9 @@ p.project-description {
     flex-direction: column;
 }
 
-
+.flex-1 {
+    flex: 1;
+}
 .edu-item {
     padding-left: calc(var(--space-unit) * 10);
     position: relative;
@@ -248,4 +252,13 @@ p.project-description {
     margin-top: calc(var(--space-unit) * 10);
     width: 70%;
     justify-content: space-between;
+}
+footer {
+    padding: calc( var(--space-unit) * 4 );
+    background-color: #000;
+}
+.contact-link {
+    font-family: 'Roboto Condensed';
+    font-weight: 700;
+    margin-right: calc(var(--space-unit)* 5);
 }

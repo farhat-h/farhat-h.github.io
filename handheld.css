@@ -1,6 +1,7 @@
 
-body {
-    background-color: coral;
+:root {
+    font-size: 12px;
+    --space-unit: 2px;
 }
 .container-fluid {
     padding-left: calc(var(--space-unit) * 4);
