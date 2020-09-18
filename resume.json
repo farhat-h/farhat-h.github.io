@@ -1,0 +1,63 @@
+{
+    "workExperience": [
+        {
+            "date": "12/07/2020 – 15/09/2020",
+            "location": "Ariana, Parc Technologique Elgazala, Tunisia",
+            "title": "INTERNSHIP: FULLSTACK WEB ENGINEER | BLOCKCHAIN",
+            "employer": {
+                "name": "K2LIS",
+                "webiste": "https://k2lis.com/fr/"
+            },
+            "description": "Design and develop a decentralized that takes advantage of Blockchain technology to organize social events.\nTechnologies: Hyperledger Besu, NodeJS, MongoDB, ReactJS"
+        },
+        {
+            "date": "2018 – 2019",
+            "location": "Sousse, Tunisia",
+            "title": "BACKEND DEVELOPER ",
+            "employer": {
+                "name": "Baladiaty",
+                "webiste": "https://baladiaty.arsela.co/"
+            },
+            "description": "Maintain the Baladiaty back end server \n https://baladiaty.arsela.co/"
+        },
+        {
+            "date": "10/2018 – 04/2019",
+            "location": "Sousse, Tunisia",
+            "title": "PART-TIME REACT NATIVE INSTRUCTOR – GoMyCode",
+            "employer": {
+                "name": "Baladiaty",
+                "webiste": "https://baladiaty.arsela.co/"
+            },
+            "description": "Coach student that in the process of creating their end of term projects. Analyse students' code and help with debugging, give implementation advice and help students work through bottlenecks in their projects"
+        },
+        {
+            "date": "10/06/2017 – 08/2017",
+            "location": "Rue du Lac Biwa, Tunis, Tunisia",
+            "title": "INTERNSHIP: SOFTWARE DEVELOPER – Orange Tunisia",
+            "employer": {
+                "name": "Orange Tunisia",
+                "webiste": "https://www.orange.tn/"
+            }
+        }
+    ],
+    "education": [
+        {
+            "date": "2018 – 2021",
+            "location": "Rue Tahar Ben Achour, Sousse, Tunisia",
+            "title": "Bachelors degree in Software Engineering",
+            "employer": {
+                "name": "Higher Institute of Applied Science and Technology of Sousse, University of Sousse",
+                "webiste": "http://www.issatso.rnu.tn/fo/index.php"
+            }
+        },
+        {
+            "date": "2018 – 2021",
+            "location": "Rue Tahar Ben Achour, Sousse, Tunisia",
+            "title": "Bachelors degree in computer science",
+            "employer": {
+                "name": "Higher Institute of Applied Science and Technology of Sousse, University of Sousse",
+                "webiste": "http://www.issatso.rnu.tn/fo/index.php"
+            }
+        }
+    ]
+}

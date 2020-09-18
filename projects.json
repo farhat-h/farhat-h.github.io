@@ -1,0 +1,22 @@
+[
+    {
+        "title": "DLEARN",
+        "thumbnail": "/dlearn-banner.jpg",
+        "stack": [
+            "react",
+            "node",
+            "mongodb"
+        ],
+        "website": "https://www.dlearn.space/"
+    },
+    {
+        "title": "ISSATSO ONTIME",
+        "thumbnail": "/ontime-banner.png",
+        "stack": [
+            "android",
+            "node",
+            "sql"
+        ],
+        "website": "https://play.google.com/store/apps/details?id=com.alttab.isotopeandroid&hl=en"
+    }
+]
